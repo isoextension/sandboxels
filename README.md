@@ -1,3 +1,5 @@
+### <font color='#ffff00'>NOTICE!</font>
+*This is not the official Sandboxels repo. Original is [here](https://github.com/R74nCom/sandboxels), and this is just for pull request purposes.*
 # Sandboxels
 A falling sand simulation game.
 
@@ -39,3 +41,6 @@ Join the [Discord server](https://discord.com/invite/ejUc6YPQuS).
  * Info            =  Open the element info screen
  * Mods            =  Open the Mod Manager
  * Settings        =  Open the settings menu
+
+---
+[github/slweeb](https://github.com/slweeb)
